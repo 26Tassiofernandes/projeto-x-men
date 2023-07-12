@@ -1,0 +1,50 @@
+/*Quando a minha viewport chegar em 1112px de largura eu vou aplicar minhas regras de css, vamos usar essas propriedades para dispositivos menores e deixar as coisas mais responsivas*/
+
+@media (max-width: 1112px){
+    header > img { /*Alterar a largura máxima da logo*/
+        max-width: 190px;
+    }
+
+    main.selecao-de-personagens {
+        flex-direction: column-reverse; /*Os itens (a seção main toda junto com os dois section) ficam organizados em uma coluna vertical, deixando-os um embaixo do outro*/
+        /*O colum-reverse vai reverter as duas section, entao o personagem grande fica em primeiro e as cards ficam logo abaixo*/
+        max-width: 430px;
+        margin: 0 auto; /*Centraliza o conteúdo*/
+
+    }
+
+    section.personagens {
+        margin-top: 37px;
+
+    }
+
+    header.cabecalho {
+        margin-bottom: 14px;
+    }
+
+    main h1.titulo {
+        font-size: 15px;
+    }
+
+    ul.lista-de-personagens {
+        gap: 9px; /*Espaçamento entre os cards*/
+    }
+
+    li > img {
+        width: 80px; /*Deixar os cards menores em telas menores*/
+    }
+
+    section > img.personagem-grande { /*Deixar a imagem do personagem menor em telas menores*/
+        width: 400px;
+        height: 350px;
+
+    }
+
+    section p.descricao-personagem { /*Deixar a imagem grande responsiva*/
+        width: 250px;
+        font-size: 16px;
+        margin: auto;
+        margin-top: 13px;
+    }
+
+}

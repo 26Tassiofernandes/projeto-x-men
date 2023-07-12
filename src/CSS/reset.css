@@ -1,0 +1,13 @@
+/*O reset serve para limpar os estilos que vem por padrão no navegador*/
+
+* { /*Retirar todas as margens e padding*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Nos ajuda a trabalhar com larguras, altura, margens, evitando cálculos repetitivos*/
+
+}
+
+ul {
+    list-style: none; /*Retira as bolinhas da lista*/
+
+}

@@ -1,0 +1,110 @@
+body {
+    font-family: 'Oxanium', cursive;
+    background: black;
+    color: white;
+    overflow-x: hidden; /*Para tirar o scroll horizontal*/
+
+}
+
+body::before { /*Pseudo-elemento*/
+    content: "";
+    background-image: url(../imagens/bg-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; /*Cobre todo o tamanho do body com a imagem de fundo*/
+    background-position: center; /*Centraliza essa imagem*/
+    width: 100%;
+    height: 100%;
+    position: absolute; /*O absolute deixa a imagem absolutamente posicionado*/
+    z-index: -1; /*Para deixar a imagem de fundo por trás de tudo, se bota 1 o fundo fica na frente de tudo*/
+    opacity: 0.1; /*Para deixar bem escurinha a imagem de fundo */
+
+}
+
+header.cabecalho { /*Aqui ficará a logo*/
+    display: flex;
+    /*O display: flex é uma propriedade que permite criar layouts flexíveis e responsivos. Quando você define o valor flex para o display, você transforma o elemento pai em um contêiner flexível que pode organizar os elementos filhos de várias maneiras.*/
+    justify-content: center;
+}
+
+main.selecao-de-personagens { /*Vai pegar as duas sections*/
+    display: flex; /*Os elementos filhos (section) ficarão lado a lado usando o flex e é exatamente isso que queremos*/
+    align-items: center;
+    gap: 30px; /*Espaçamento*/
+    min-height: calc(100vh - 152px); 
+    /* view port height: janela de exibição ou tela do navegador (vh), é como se fosse 100% da altura da nossa tela */
+    justify-content: center;
+    width: 100%;
+    
+
+}
+
+
+ul.lista-de-personagens {
+    display: flex; /*Os cards dos personagens ficarão colados um do lado do outro, botarão os elementos em linha, pois o padrão do flex é flex: row, que siginifica em linha*/
+
+    flex-wrap: wrap; /*Isso quebra os elementos um para baixo do outro quando não tiver mais espaço no conteúdo*/
+
+    gap: 30px; /*Espaçamento entre os cards, isso é uma propriedade do flex*/
+
+    justify-content: center; /*Centraliza o elemento horizontalmente*/
+}
+
+section.personagens {
+    display: flex;
+    flex-direction: column; /*Os itens ficam organizados em uma coluna vertical*/
+    align-items: center; /*Alinha itens no centro verticalmente*/
+    max-width: 585px;
+    gap: 25px;
+}
+
+h1.titulo {
+    font-size: 20px;
+    letter-spacing: 4px; /*Espaçamento entre as letras*/
+    text-transform: uppercase; /*Bota o titulo em maiúsculo*/
+    border-bottom: 2px solid #47f4ff; /*Borda de baixo: valor da borda, tipo da borda e a cor da borda*/
+    width: 100%; /*Para a bordinha azul ficar 100% a largura do pai (que no caso é o titulo)*/
+    text-align: center;
+    padding: 10px;
+
+}
+
+li > img {
+    border-bottom: 2.5px solid #47f4ff;
+    width: 100%; /*O width e o height evitam que as imagens fiquem quebradas de desfocadas*/
+    height: 100%;
+    /* box-shadow: 0px 0px 24px 5px #0271f7; */
+    /* border-width: 3px; */
+}
+
+li > img:hover {
+    box-shadow: 0px 0px 31px 3px #0271f7;
+    transition-duration: 0.4s;
+}
+
+
+section.personagem-selecionado {
+    text-align: center;
+    max-height: 530px;
+    
+}
+
+section > img.personagem-grande {
+    width: 430px;
+    height: 430px;
+}
+
+section h2.nome-personagem { /*Nome do personagem*/
+    border-bottom: 2px solid #0271f7;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    /* width: 98%; */
+}
+
+section p.descricao-personagem {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 20px;
+    width: 420px;
+    
+}
