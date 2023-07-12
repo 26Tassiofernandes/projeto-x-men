@@ -10,7 +10,7 @@
 
 <a href="https://26tassiofernandes.github.io/projeto-x-men/" rel="external">Projeto X-Men</a> <br>
 
-<img alt="Projeto X-Men" src="https://media.giphy.com/media/M38GwKfBZLlRBel79y/giphy.gif" width="500" height="300">
+<img alt="Projeto X-Men" src="https://github.com/26Tassiofernandes/projeto-x-men/assets/86972667/b117cbf7-0fee-4ea3-89db-d854f4cb5347">
 
 </div>
 
