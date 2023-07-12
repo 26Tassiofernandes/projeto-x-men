@@ -6,11 +6,11 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-### Link do projeto 🔗 
+### Link do projeto 🔗
 
 <a href="https://26tassiofernandes.github.io/projeto-x-men/" rel="external">Projeto X-Men</a>
 
-<img src="https://github.com/26Tassiofernandes/projeto-x-men/assets/86972667/9b809d8e-cc95-41a2-be52-b202cee9c5aa" alt="imagem">
+<iframe src="https://giphy.com/embed/M38GwKfBZLlRBel79y" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M38GwKfBZLlRBel79y">via GIPHY</a></p>
 </div>
 
 
@@ -29,7 +29,8 @@ consistia em selecionar um personagem onde cada um possuia uma imagem e descriç
 - <strong>Responsividade</strong> <br>
 - <strong>DOM</strong> <br>
 - <strong>Functions e disparos de eventos</strong> <br>
-- <strong>Uso do flex</strong>
+- <strong>Uso do flex</strong> <br>
+- <strong>Media query</strong>
   
 </p>
 
