@@ -8,9 +8,8 @@
 
 ### Link do projeto 🔗
 
-<img alt="Projeto X-Men" src="https://media.giphy.com/media/M38GwKfBZLlRBel79y/giphy.gif" width=100%>
+<img alt="Projeto X-Men" src="https://media.giphy.com/media/M38GwKfBZLlRBel79y/giphy.gif">
 
-<a href="https://media.giphy.com/media/M38GwKfBZLlRBel79y/giphy.gif"</a>
 
 </div>
 
