@@ -8,7 +8,7 @@
 
 ### Link do projeto 🔗
 
-<a href="https://26tassiofernandes.github.io/projeto-x-men/" rel="external">Projeto X-Men</a>
+<img alt="Projeto X-Men" src="https://media.giphy.com/media/M38GwKfBZLlRBel79y/giphy.gif" width=100%>
 
 <a href="https://media.giphy.com/media/M38GwKfBZLlRBel79y/giphy.gif"</a>
 
