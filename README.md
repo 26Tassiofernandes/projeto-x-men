@@ -10,7 +10,8 @@
 
 <a href="https://26tassiofernandes.github.io/projeto-x-men/" rel="external">Projeto X-Men</a>
 
-<iframe src="https://giphy.com/embed/M38GwKfBZLlRBel79y" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M38GwKfBZLlRBel79y">via GIPHY</a></p>
+<a href="https://media.giphy.com/media/M38GwKfBZLlRBel79y/giphy.gif"</a>
+
 </div>
 
 
