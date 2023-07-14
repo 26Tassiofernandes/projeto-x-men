@@ -27,11 +27,11 @@ consistia em selecionar um personagem onde cada um possuia uma imagem e descriç
 
 ### 📚 Conceitos tratados nesse projeto
 <p>
-- <strong>Responsividade</strong> <br>
-- <strong>DOM</strong> <br>
-- <strong>Functions e disparos de eventos</strong> <br>
-- <strong>Uso do flex</strong> <br>
-- <strong>Media query</strong>
+◦ <strong>Responsividade</strong> <br>
+◦ <strong>DOM</strong> <br>
+◦ <strong>Functions e disparos de eventos</strong> <br>
+◦ <strong>Uso do flex</strong> <br>
+◦ <strong>Media query</strong>
   
 </p>
 
