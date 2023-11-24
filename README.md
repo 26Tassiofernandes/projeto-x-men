@@ -19,8 +19,8 @@
 
 ### 📜 Descrição 
 <p>
-Projeto desenvolvido na semana do zero ao programador contratado do canal do Youtube Dev em dobro, o objetivo era desenvolver uma interface que
-consistia em selecionar um personagem onde cada um possuia uma imagem e descrição.
+Projeto desenvolvido usando HTML, CSS e JavaScript, o objetivo era desenvolver uma interface que
+consistia em selecionar um personagem onde cada um possuía uma imagem e descrição.
 </p>
 
 ##
