@@ -18,26 +18,37 @@
 ##
 
 ### 📜 Descrição 
-<p>
-Projeto desenvolvido usando HTML, CSS e JavaScript, o objetivo era desenvolver uma interface que
-consistia em selecionar um personagem onde cada um possuía uma imagem e descrição.
-</p>
+
+Este é um projeto feito usando apenas HTML, CSS e JavaScript. Trata-se de uma interface intuitiva onde o usuário é convidado a escolher seu personagem de ação favorito da série "X-men", explorando sua imagem, nome e descrição em uma tela totalmente responsiva.
 
 ##
 
 ### 📚 Conceitos tratados nesse projeto
-<p>
-◦ <strong>Responsividade</strong> <br>
-◦ <strong>DOM</strong> <br>
-◦ <strong>Functions e disparos de eventos</strong> <br>
-◦ <strong>Uso do flex</strong> <br>
-◦ <strong>Media query</strong>
-  
-</p>
+
+- Responsividade 
+- DOM 
+- Functions e disparos de eventos 
+- Uso do flex 
+- Media query
 
 ##
 
-### ✏️ Licença 
-<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.</p>
+### ⚙ Requisitos
+
+- Ter um navegador da Web Moderno instalado em sua máquina.
 
 ##
+
+### ⚒️ Como rodar?
+
+Basta acessar o projeto pelo link disponiblizado aqui nessa página e rodá-lo no navegador do seu agrado. Após isso
+o usuário terá acesso a interface em questão.
+
+##
+
+### ✏️ Licença
+
+Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
+
+##
+
